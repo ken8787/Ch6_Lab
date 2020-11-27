@@ -1,0 +1,6 @@
+﻿  main.c
+c:\c_code\3\source\main.c(16): error C2065: 'stud': 未宣告的識別項
+c:\c_code\3\source\main.c(16): warning C4047: '=': 'student *' 與 'int' 間接取值的層級不同
+c:\c_code\3\source\main.c(18): warning C4013: 'prntf' 未定義; 假設 extern 傳回整數
+c:\c_code\3\source\main.c(24): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+c:\c_code\3\source\main.c(31): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
